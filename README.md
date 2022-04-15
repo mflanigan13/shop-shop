@@ -1,6 +1,5 @@
 # shop-shop
-
-# Shop Shop  
+ 
 
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -25,7 +24,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Deployed Application 
 
 [Shop Shop](https://shop-shop-redux.herokuapp.com/)<br />
-![Image](https://github.com/izabelacloud/Shop-Shop-Redux/blob/master/shop-shop.gif?raw=true)<br />
+![Image](https://courses.bootcampspot.com/courses/1034/files/1020758/preview)<br />
 
 ## User Story
 
