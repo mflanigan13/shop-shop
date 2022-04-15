@@ -23,7 +23,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Deployed Application 
 
-[Shop Shop](https://shop-shop-redux.herokuapp.com/)<br />
 ![Image](https://github.com/mflanigan13/shop-shop/blob/feature/cart-ui/client/public/images/100-end-of-lesson-2.png)<br />
 
 ## User Story
